@@ -2,7 +2,7 @@
 - 👀 I’m interested in Analytics, DS, ML, AI, Web Development, Leadership.
 - 🌱 I’m currently learning ML, DL, Big Data
 - 💞️ I’m looking to collaborate on "You ask me :)" 
-- 📫 How to reach me email 
+- 📫 email
    - [sheta.rushank@gmail.com](mailto:sheta.rushank@gmail.com)
    - [rushanksheta00@gmail.com](mailto:rushanksheta00@gmail.com)
 
