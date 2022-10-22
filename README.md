@@ -18,11 +18,11 @@ text in dropdown
 text in dropdown
 </details>
 
-<details>
-<summary>test Dropdown</summary>
-<br>
-text in dropdown
-</details>
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+| `test` | <details><summary>test Dropdown</summary><br>text in dropdown</details>|
 
 <!---
 rushanksheta/rushanksheta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
