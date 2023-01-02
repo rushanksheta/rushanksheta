@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rushanksheta
-- 👀 I’m interested in Analytics, DS, ML, AI, Web Development, Leadership.
+- 👀 I’m interested in Analytics, DS, ML, AI, Leadership.
 - 🌱 I’m currently learning ML, DL, Big Data
 - 💞️ I’m looking to collaborate on "You ask me :)" 
 - 📫 email
